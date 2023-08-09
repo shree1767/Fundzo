@@ -1,0 +1,103 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+    padding: 0 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  .logo {
+    width: 120px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .main-heading {
+    font-weight: 800;
+    font-size: 60px;
+    background: linear-gradient(to right, #00FE90, #00A2FF);
+    -webkit-background-clip: text;
+    color: transparent;
+    margin: 0;
+  }
+
+  .description {
+    color: #CDCDCD;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 40px;
+  }
+  
+ 
+.buttons {
+  margin-top: 20px; /* Reduce top margin */
+  display: flex;
+  gap: 20px;
+   /* Stack buttons on mobile */
+}
+
+.gradient-button,
+.dark-button {
+  border: none;
+  padding: 15px 20px;
+  font-size: 16px; /* Reduce font size */
+  border-radius: 8px;
+  cursor: pointer;
+  align-items: center;
+  margin-top: 10px; /* Add some top margin */
+/* Full width on mobile */
+}
+
+.gradient-button {
+  display: flex;
+  gap: 10px;
+  background: linear-gradient(to right, #00FE90, #00A2FF);
+  color: black;
+  font-weight:600;
+}
+
+.dark-button {
+  background-color: #1A1B1F;
+  font-weight: 600;
+  color: white;
+}
+.dark-button:hover{
+  background-color: #565656;
+}
+
+  .totalvalue{
+    font-size: 20px;
+    color: white;
+    font-weight: 800;
+    margin: 35px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .main-heading {
+      font-size: 35px;
+    }
+  
+    .sub-heading,
+    .description,
+    .buttons {
+      flex-direction: column;
+      font-size: 16px;
+      margin-top: 25px;
+    }
+    .gradient-button,
+    .dark-button{
+      padding: 18px 75px;
+      font-size: 15px;
+    }
+  
+    .totalvalue {
+      font-size: 16px;
+      margin: 25px 0;
+    }
+    .arrow{
+      width: 20px;
+    }
+  }
