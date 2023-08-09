@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Fundzo/static/css/main.a56ca7b8.css",
+    "main.js": "/Fundzo/static/js/main.932200ab.js",
+    "static/js/787.dcb88a7a.chunk.js": "/Fundzo/static/js/787.dcb88a7a.chunk.js",
+    "static/media/bg.svg": "/Fundzo/static/media/bg.5116ad7bf64b7e57476c.svg",
+    "static/media/logo.svg": "/Fundzo/static/media/logo.cba2d1fddb5cbf07579e08fafdc58a83.svg",
+    "static/media/Button.svg": "/Fundzo/static/media/Button.63bf49674545c82ac53fbedb9c422f21.svg",
+    "static/media/Link → gitbook.svg.svg": "/Fundzo/static/media/Link → gitbook.svg.86b8ee5d5869d62f661045bf7dcf71fb.svg",
+    "static/media/Link → discord.svg.svg": "/Fundzo/static/media/Link → discord.svg.db2e1dcb0d787cefa584fc737c27b924.svg",
+    "static/media/Link → twitter.svg.svg": "/Fundzo/static/media/Link → twitter.svg.0c33022b35b8154ae758ed0f51ea86e0.svg",
+    "static/media/Link → telegram.svg.svg": "/Fundzo/static/media/Link → telegram.svg.bd3750f374ce40c0996e918c51aac010.svg",
+    "static/media/SVG.svg": "/Fundzo/static/media/SVG.5c0354d1ad674022557655c378ab92e4.svg",
+    "index.html": "/Fundzo/index.html",
+    "main.a56ca7b8.css.map": "/Fundzo/static/css/main.a56ca7b8.css.map",
+    "main.932200ab.js.map": "/Fundzo/static/js/main.932200ab.js.map",
+    "787.dcb88a7a.chunk.js.map": "/Fundzo/static/js/787.dcb88a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56ca7b8.css",
+    "static/js/main.932200ab.js"
+  ]
+}
